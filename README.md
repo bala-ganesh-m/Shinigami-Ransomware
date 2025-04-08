@@ -62,18 +62,21 @@ go build -ldflags -H=windowsgui -o Shinigami.exe main.go
 just click on shinigami.exe file<br>
 after some seconds desktop ppicture will change and a window like this will appear<br>
 
-![alt text](https://github.com/Null-byte-00/images/blob/master/psychodemo.png?raw=true)<br>
+![Screenshot 2025-04-08 185317](https://github.com/user-attachments/assets/67b60deb-9839-4245-a107-0762a4630694)
+<br>
 
 
 and you can see that some of your files are encrypted<br>
 
-![alt text](https://github.com/Null-byte-00/images/blob/master/psychoencrypteddemo.png?raw=true)<br>
+![Screenshot 2025-04-08 185429](https://github.com/user-attachments/assets/33efb55d-bd47-4040-b976-85b4edbac8f5)
+<br>
 
 ### decrypting files
 
 to decrypt files click on Get victimkey button. you will see a notepad window. <br>
 
-![alt text](https://github.com/Null-byte-00/images/blob/master/psychovictimkeydemo.png?raw=true)<br>
+![Screenshot 2025-04-08 185507](https://github.com/user-attachments/assets/42cc79d6-e1f4-4500-a2a4-f50a410c77fe)
+<br>
 
 copy this text and go to Shinigami/shinigamidecryptor and run:<br>
 
@@ -86,7 +89,8 @@ decryptor will give you a 32 character text like this:<br>
 k8T2fDFkKbdBwdlnbVgxJTucm0oNBdwa
 ```
 now enter this text in Password textbox and click on Check password button. psycho will start to decrypt your files (it can take a while)<br>
-![alt text](https://github.com/Null-byte-00/images/blob/master/psychodecryptdemo.png?raw=true)<br>
+![Screenshot 2025-04-08 190112](https://github.com/user-attachments/assets/28fddb9a-e268-4f77-b4bf-7012f59dd8d3)
+<br>
 
 Now you got your files back<br>
 
