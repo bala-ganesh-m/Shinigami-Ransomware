@@ -6,7 +6,7 @@ Shinigami is a PoC ransomware written in go<br><br>
 tested on windows 11
 ## possibilities:
 <ul>
-<li>using hybrid encryption (witch is fast and safe)</li>
+<li>using hybrid encryption (which is fast and safe)</li>
 <li>customize settings</li>
 <li>good appearance</li>
 <li>changing background picture</li>
